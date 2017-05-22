@@ -1,18 +1,18 @@
 ---
 layout:     post
-title:      Carte Noire in Action
+title:      Testing the blog
 date:       2014-06-10 12:31:19
-summary:    See what the different elements looks like.
-categories: jekyll
-thumbnail: cogs
+summary:    Cool blogs deserve cool tests
+categories: test
+thumbnail: 
 tags:
- - demo
- - action
- - carte
- - noire
+ - test
+ - blog
+ - stuff
+ - tagg
 ---
 
-**Note** - This article is a derivative of ["See pixyll in action"][1], taken from the lovely jekyll theme [pixyll][4].
+**Note** - This is a test of markdown capabilities.
 
 All links are easy to [locate and discern](#), yet don't detract from the harmony
 of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the strikeout
