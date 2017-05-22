@@ -568,7 +568,7 @@ ul {
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 18px;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
@@ -582,9 +582,9 @@ ul {
 			img {
 				max-width: 100%;
 				padding: 10px;
-    		display: block;
-    		margin-left: auto;
-    		margin-right: auto
+				display: block;
+				margin-left: auto;
+				margin-right: auto
 			}
 
 			ul {
@@ -598,7 +598,7 @@ ul {
 			blockquote {
 				position: relative;
 				width: 100%;
-		    margin-left: -15px;
+		    	margin-left: -15px;
 				padding-right: 10px;
 				background-color: $darker;
 				color: white;
