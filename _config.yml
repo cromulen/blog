@@ -1,0 +1,38 @@
+# Site settings
+title: "Petricevi.ch"
+email: marin@petricevi.ch
+description: "Machine learning and other computing"
+baseurl: ""
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: "Hi. My name is Marin Petričević and I'm a computer science student at the Faculty of Electrical Engineering and Computing in Zagreb. You're likely to find me talking about machine learning and neural networks, but I'm also an avid Linux user and my interests include system administration and functional programming."
+title_image: "https://s.gravatar.com/avatar/307e48bba523c6a1b5b41e4e9a37713a?s=500"
+google_analytics: "UA-26523619-2"
+disqus_account: 
+github_repository: https://github.com/cromulen
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  cromulen
+instagram_username: 
+reddit_username: cromulen7
+linkedin_link: 
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Theme</a> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
