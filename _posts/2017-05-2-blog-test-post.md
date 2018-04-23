@@ -3,7 +3,7 @@ layout:     post
 title:      Testing the blog
 date:       2014-06-10 12:31:19
 summary:    Cool blogs deserve cool tests
-categories: test
+categories: test 
 thumbnail: 
 published: False
 tags:
